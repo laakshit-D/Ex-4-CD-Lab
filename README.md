@@ -1,7 +1,7 @@
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
-# Name: Laakshit D
-# Reg No: 212222230071
-# Date: 19.5.2025
+### Name: Laakshit D
+### Reg No: 212222230071
+## Date: 19.5.2025
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
